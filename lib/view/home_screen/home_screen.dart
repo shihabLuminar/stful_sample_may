@@ -26,7 +26,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   setState(() {});
                 },
                 child: Text(
-                  "red",
+                  "red color",
                   style: TextStyle(color: Colors.red, fontSize: 30),
                 )),
             TextButton(
